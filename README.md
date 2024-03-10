@@ -1,10 +1,7 @@
 https://github.com/znun/SpeechParse/assets/33092475/d74f16cd-5fa8-4640-8f66-ac4cf1dd59ae
 
 
-# Parts of Speech Detector App
-
-[![Swift Version][swift-image]][swift-url]
-[![License][license-image]][license-url]
+# Parts of Speech Detector App (SpeechParse)
 
 This iOS app, built using SwiftUI, utilizes Natural Language Processing (NLP) to detect parts of speech from a given sentence.
 
@@ -31,7 +28,7 @@ This iOS app, built using SwiftUI, utilizes Natural Language Processing (NLP) to
 
 1. Launch the app on your iOS device or simulator.
 2. Enter a sentence in the provided text field.
-3. Tap the "Detect" button to analyze the sentence.
+3. Tap the "Parse" button to analyze the sentence.
 
 
 ## Credits
